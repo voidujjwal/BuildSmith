@@ -1,0 +1,9 @@
+# All BuildSmith k8s objects live in one namespace so the whole demo is `kubectl delete ns BuildSmith`
+# away from being cleaned up.
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: BuildSmith
+  labels:
+    app.kubernetes.io/name: BuildSmith
+    app.kubernetes.io/part-of: BuildSmith
