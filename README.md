@@ -2,7 +2,7 @@
 
 > Challenge area: **testing, debugging, and release & deployment workflows**.
 >
-> - **Live app:** https://BuildSmith-ecru.vercel.app
+> - **Live app:** https://buildsmith.vercel.app
 
 AI-native, human-in-the-loop **PWA** that carries a web-app idea — from screenshots or a
 structured spec — through **requirements → design → build → test + self-healing repair →
